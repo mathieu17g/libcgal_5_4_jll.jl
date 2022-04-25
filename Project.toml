@@ -1,0 +1,15 @@
+name = "libcgal_5_4_julia_jll"
+uuid = "fad360b4-b73b-5276-98ff-84a5170da62b"
+version = "0.18.7+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
+CGAL_5_4_jll = "655e60ac-e4b4-57fd-b1e9-e2f75a59b4eb"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.7"
