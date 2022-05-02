@@ -1,8 +1,8 @@
 [[libcgal_5_4_julia]]
 arch = "x86_64"
-git-tree-sha1 = "6f8e377a6e106371351131e94f2203c751b55f12"
+git-tree-sha1 = "2e119629b687375d47d6dd65c2f67a9ef59046d1"
 os = "macos"
 
     [[libcgal_5_4_julia.download]]
-    sha256 = "8423a705699d3ac41177b83502d9b1b33ec97b2171d33ce89b839857385f69e1"
+    sha256 = "34724371e511c95064f23576b91ae4790a44aad4905c3b5cc6d90b2c22882a44"
     url = "https://github.com/mathieu17g/libcgal_5_4_jll.jl/releases/download/libcgal_5_4_julia-v0.18.7+0/libcgal_5_4_julia.v0.18.7.x86_64-apple-darwin.tar.gz"
